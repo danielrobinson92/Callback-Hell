@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 40px;
+    margin: 10%
+}
+
+#button{
+    margin: 8%;
+    padding: 10px;
+    border-radius: 5%;
+    border-style: groove;
+    background-color: inherit;
+}
+
+#countdown, #button{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+body{
+    background-image: url(./Callback_imgbackup.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
